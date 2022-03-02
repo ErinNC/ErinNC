@@ -4,7 +4,6 @@
 
 - 📫 How to reach me **costolo.erin@gmail.com**
 
-
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
