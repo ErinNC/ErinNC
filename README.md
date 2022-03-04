@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Erin Costolo</h1>
+<h1 align="center">Hi, I'm Erin Costolo</h1>
 <h3 align="center">I am an aspiring data scientist currently enrolled in BloomTech's DS program</h3>
 
 
