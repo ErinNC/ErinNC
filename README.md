@@ -1,17 +1,22 @@
-<h1 align="center">Hi 👋, I'm Erin Costolo</h1>
+<h1 align="center">Hello World! 🌎  I'm Erin Costolo 👋</h1>
 <h3 align="center">I am an aspiring data scientist currently enrolled in BloomTech's DS program</h3>
+<br>
+
+-  💻 Technologies: **Python | SQL & Databases | Flask | Heroku | TensorFlow | Keras | Tableau | Docker**
+
+- 🛠 Skills: **Exploratory Data Analysis | Data Visualization | Linear & Multivariate Regression | Statistical Analysis | Decision Trees & Random Forests | Data Pipelines | Unit Testing | Word Embeddings & Vectorization | Machine Learning | Natural Language Processing | Neural Networks | Deep Learning**
+
+- 🌱 I’m currently exploring **data science and machine learning career opportunities**
 
 - 🔭 I’m currently working on **personal projects**
-
-- 🌱 I’m currently learning more **about machine learning algorithms**
 
 - 👨‍💻 All of my projects are available **here on GitHub**
 
 - 💬 Ask me about **my dog**
 
-- 📫 How to reach me **costolo.erin@gmail.com**
+- 🎨 Fun fact: **I collect tea tags and create decoupage art with them**
 
-- ⚡ Fun fact **I collect tea tags and create decoupage artworks**
+- 📫 How to reach me **costolo.erin@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
