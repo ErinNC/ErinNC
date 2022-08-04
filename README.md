@@ -1,5 +1,5 @@
 <h1 align="center">Hello World! 🌎  I'm Erin Costolo 👋</h1>
-<h3 align="center">I am an aspiring data scientist currently enrolled in BloomTech's DS program</h3>
+<h3 align="center">I am a graduate of BloomTech's Data Science program and am eager to begin a career in tech</h3>
 <br>
 
 -  💻 Technologies: **Python | SQL & Databases | Flask | Heroku | TensorFlow | Keras | Tableau | Docker**
