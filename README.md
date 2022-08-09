@@ -14,7 +14,7 @@
 
 - 💬 Ask me about **my dog**
 
-- 🎨 Fun fact: **I collect tea tags and create decoupage art with them**
+- 🎨 Fun fact: **I enjoy making art from recycled materials**
 
 - 📫 How to reach me **costolo.erin@gmail.com**
 
